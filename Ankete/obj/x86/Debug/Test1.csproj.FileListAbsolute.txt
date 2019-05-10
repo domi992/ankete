@@ -1,0 +1,11 @@
+D:\VSTUDIO\WORKSPACE\Test1\Test1\bin\Debug\Test1.exe
+D:\VSTUDIO\WORKSPACE\Test1\Test1\bin\Debug\Test1.pdb
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\Test1.Properties.Resources.resources
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\Test1.exe
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\Test1.pdb
+D:\VSTUDIO\WORKSPACE\Test1\Test1\obj\x86\Debug\Test1.Form1.resources
+D:\VSTUDIO\WORKSPACE\Test1\Test1\bin\Debug\ANKETE.mdb
+D:\VSTUDIO\WORKSPACE\Test1\Test1\bin\Debug\Test1.exe.config
